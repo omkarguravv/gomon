@@ -1,0 +1,11 @@
+# Go
+/bin/
+/pkg/
+/*.exe
+*.log
+*.out
+*.test
+
+# IDEs
+.vscode/
+.idea/
